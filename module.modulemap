@@ -1,7 +1,7 @@
 module CClutter [system] {
 	header "clutter_bridging.h"
 
-	link "clutter"
+	link "clutter-1.0"
 	link "cogl-pango"
 	link "cogl"
         link "cogl-path"
