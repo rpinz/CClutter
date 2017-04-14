@@ -111,5 +111,6 @@ struct _ClutterZoomActionPrivate {};
 struct _JsonNode {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
+#include <sys/types.h>
 #include <termios.h>
 #include <clutter/clutter.h>
